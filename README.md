@@ -7,6 +7,5 @@
 <strong>Gosto muito de tecnologia, sou designer gráfico e atualmente estudo programação. 💻</strong></br>
 Aqui vai algumas coisas sobre mim:</br>
 😄 Buscando colaborar com projetos em Front-end - UI/Ux</br>
-💬 Curto tecnologias, games (moba) e seriados no Netflix</br>
-📫 Contato: @jaquetx</br>
-
+💬 Curto tecnologias, esporte, games e muitos seriados</br>
+📫 Contatos: <a href="www.jaquetx.com">website
